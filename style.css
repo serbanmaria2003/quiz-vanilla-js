@@ -1,0 +1,13 @@
+.quiz-answers{
+  list-style-type: none;
+}
+
+.quiz-answers li input{
+  margin-right: 5px;
+}
+
+.quiz-answers .alert{
+  padding: 0;
+  margin-bottom: 0;
+  /* display: inline-block; */
+}
